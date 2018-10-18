@@ -1,0 +1,25 @@
+# config.yaml
+# A simple config file for a real deployment. For the full summary of each field, 
+# go check out src/bs/ts/example/configs/verbose.yaml
+
+operation:
+  maxSize: 1048576
+
+block:
+  maxSize: 134217728
+  maxOperationCount: 128
+  difficultyMode: 'Static'
+  difficultyTargetValue: 2
+
+blockchain:
+  broadcastMode: 'Async'
+
+network:
+  internalPort: 8080
+  externalPort: 9090
+  hosts:
+    - '159.89.50.88'
+    - '139.59.30.117'
+    - '188.166.246.211'
+    - '198.199.108.184'
+    - '178.62.127.174'
