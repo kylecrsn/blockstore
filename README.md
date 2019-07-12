@@ -1,8 +1,8 @@
+## *This is an archive of [this](https://github.com/FatihBAKIR/blockstore) repo*
+
 # blockstore
 
 >A distributed key-value storage system built on top of *blockchain technology*™
-
-## *This is an archive of the orignal repo over [here](https://github.com/FatihBAKIR/blockstore)*
 
 ## About
 
